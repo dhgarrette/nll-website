@@ -1,0 +1,1 @@
+8:::0:::Taylor Berg-Kirkpatrick, David Burkett, and Dan Klein:::http://www.cs.berkeley.edu/~tberg/papers/emnlp2012.pdf:::An Empirical Investigation of Statistical Significance in NLP:::EMNLP:::2012:::0
