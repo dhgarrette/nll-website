@@ -10,8 +10,7 @@
 5:::1:::Peter D. Turney:::http://jair.org/media/3640/live-3640-6410-jair.pdf:::Domain and function: A dual-space model of semantic relations and compositions:::JAIR:::2012:::0
 2:::0:::Ann Copestake and Aurelie Herbelot:::https://www.cl.cam.ac.uk/~aac10/papers/lc1-0web.pdf:::Lexicalised compositionality:::Unpublished draft:::2012:::0
 3:::0:::Diarmuid O'Seaghda and Anna Korhonen:::http://www.cl.cam.ac.uk/~do242/Papers/emnlp11_lexsub.pdf:::Probabilistic models of similarity in syntactic context:::EMNLP:::2011:::0
-7:::0:::Tom Kwiatkowski, Sharon Goldwater, Luke Zettlemoyer, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kgzs-eacl12.pdf:::A Probabilistic Model of Syntactic and Semantic Acquisition from Child-Directed Utterances and their Meanings:::EACL:::2012:::0
 1:::0:::Song Feng, Ritwik Banerjee and Yejin Choi:::http://www.cs.sunysb.edu/~songfeng/papers/emnlp2012_stylometry.pdf:::Characterizing Stylistic Elements in Syntactic Structure:::EMNLP:::2012:::0
 7:::0:::Richard Socher, Brody Huval, Christopher D. Manning, and Andrew Y. Ng:::http://www.socher.org/uploads/Main/SocherHuvalManningNg_EMNLP2012.pdf:::Semantic Compositionality through Recursive Matrix-Vector Spaces:::EMNLP:::2012:::1
-6:::0:::Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kzgs-emnlp2011.pdf:::Lexical Generalization in CCG Grammar Induction for Semantic Parsing:::EMNLP:::2011:::0
+3:::0:::Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kzgs-emnlp2011.pdf:::Lexical Generalization in CCG Grammar Induction for Semantic Parsing:::EMNLP:::2011:::0
 5:::0:::Eneko Agirre, Daniel Cer, Mona Diab, and Aitor Gonzalez-Agirre:::http://ixa2.si.ehu.es/starsem/proc/pdf/STARSEM-SEMEVAL051.pdf:::SemEval-2012 Task 6: A Pilot on Semantic Textual Similarity:::SemEval:::2012:::0
