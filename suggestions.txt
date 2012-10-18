@@ -1,8 +1,8 @@
 0:::0:::Szymon Acedanski, Adam Slaski, and Adam Przepiorkowski:::http://aclweb.org/anthology-new/W/W12/W12-3406.pdf:::Machine Learning of Syntactic Attachment from Morphosyntactic and Semantic Co-occurrence Statistics:::ACL:::2012:::0
 1:::0:::Michael Wick, Sameer Singh, and Andrew McCallum:::http://people.cs.umass.edu/~mwick/MikeWeb/Publications_files/wick12hierarchical.pdf:::A Discriminative Hierarchical Model for Fast Coreference at Large Scale:::ACL:::2012:::0
 0:::0:::Veselin Stoyanov and Jason Eisner:::http://old-site.clsp.jhu.edu/~ves/papers/loopyCRFappl.pdf:::Minimum-Risk Training of Approximate CRF-Based NLP Systems:::NAACL:::2012:::0
-1:::0:::Atsushi Fujita, Pierre Isabelle, and Roland Kuhn:::http://aclweb.org/anthology-new/D/D12/D12-1058.pdf:::Enlarging Paraphrase Collections through Generalization and Instantiation:::EMNLP:::2012:::0
-2:::0:::Nicholas Andrews, Jason Eisner, and Mark Dredze:::http://aclweb.org/anthology-new/D/D12/D12-1032.pdf:::Name Phylogeny: A Generative Model of String Variation:::EMNLP:::2012:::0
+2:::0:::Atsushi Fujita, Pierre Isabelle, and Roland Kuhn:::http://aclweb.org/anthology-new/D/D12/D12-1058.pdf:::Enlarging Paraphrase Collections through Generalization and Instantiation:::EMNLP:::2012:::0
+2:::1:::Nicholas Andrews, Jason Eisner, and Mark Dredze:::http://aclweb.org/anthology-new/D/D12/D12-1032.pdf:::Name Phylogeny: A Generative Model of String Variation:::EMNLP:::2012:::0
 0:::0:::Jagadeesh Jagarlamudi and Hal Daume III:::http://www.umiacs.umd.edu/~jags/pdfs/IPATransliterate.pdf:::Regularized Interlingual Projections: Evaluation on Multilingual Transliteration:::EMNLP:::2012:::0
 1:::0:::Gozde Ozbal and Carlo Strapparava:::http://aclweb.org/anthology-new/P/P12/P12-1074.pdf:::A Computational Approach to the Automation of Creative Naming:::ACL:::2012:::0
 4:::0:::Gabor Angeli, Christopher Manning, and Daniel Jurafsky:::http://www.stanford.edu/~jurafsky/2012-naacl-temporal.pdf:::Parsing Time: Learning to Interpret Time Expressions:::NAACL:::2012:::0
@@ -12,5 +12,6 @@
 3:::0:::Diarmuid O'Seaghda and Anna Korhonen:::http://www.cl.cam.ac.uk/~do242/Papers/emnlp11_lexsub.pdf:::Probabilistic models of similarity in syntactic context:::EMNLP:::2011:::0
 1:::0:::Song Feng, Ritwik Banerjee and Yejin Choi:::http://www.cs.sunysb.edu/~songfeng/papers/emnlp2012_stylometry.pdf:::Characterizing Stylistic Elements in Syntactic Structure:::EMNLP:::2012:::0
 7:::0:::Richard Socher, Brody Huval, Christopher D. Manning, and Andrew Y. Ng:::http://www.socher.org/uploads/Main/SocherHuvalManningNg_EMNLP2012.pdf:::Semantic Compositionality through Recursive Matrix-Vector Spaces:::EMNLP:::2012:::1
-3:::0:::Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kzgs-emnlp2011.pdf:::Lexical Generalization in CCG Grammar Induction for Semantic Parsing:::EMNLP:::2011:::0
-5:::0:::Eneko Agirre, Daniel Cer, Mona Diab, and Aitor Gonzalez-Agirre:::http://ixa2.si.ehu.es/starsem/proc/pdf/STARSEM-SEMEVAL051.pdf:::SemEval-2012 Task 6: A Pilot on Semantic Textual Similarity:::SemEval:::2012:::0
+4:::0:::Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kzgs-emnlp2011.pdf:::Lexical Generalization in CCG Grammar Induction for Semantic Parsing:::EMNLP:::2011:::0
+4:::0:::Chris Manning:::http://nlp.stanford.edu/~manning/papers/CICLing2011-manning-tagging.pdf:::Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?:::CICLing:::2011:::0
+5:::0:::William Blacoe and Mirella Lapata:::http://www.aclweb.org/anthology-new/D/D12/D12-1050.pdf:::A Comparison of Vector-based Representations for Semantic Composition:::EMNLP:::2012:::0
