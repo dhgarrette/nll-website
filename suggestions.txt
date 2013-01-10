@@ -13,5 +13,6 @@
 1:::0:::Song Feng, Ritwik Banerjee and Yejin Choi:::http://www.cs.sunysb.edu/~songfeng/papers/emnlp2012_stylometry.pdf:::Characterizing Stylistic Elements in Syntactic Structure:::EMNLP:::2012:::0
 7:::0:::Richard Socher, Brody Huval, Christopher D. Manning, and Andrew Y. Ng:::http://www.socher.org/uploads/Main/SocherHuvalManningNg_EMNLP2012.pdf:::Semantic Compositionality through Recursive Matrix-Vector Spaces:::EMNLP:::2012:::1
 4:::1:::Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, and Mark Steedman:::http://www.cs.washington.edu/homes/lsz/papers/kzgs-emnlp2011.pdf:::Lexical Generalization in CCG Grammar Induction for Semantic Parsing:::EMNLP:::2011:::0
-6:::0:::Chris Manning:::http://nlp.stanford.edu/~manning/papers/CICLing2011-manning-tagging.pdf:::Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?:::CICLing:::2011:::0
+6:::0:::Christopher D. Manning:::http://nlp.stanford.edu/~manning/papers/CICLing2011-manning-tagging.pdf:::Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?:::CICLing:::2011:::0
 6:::2:::William Blacoe and Mirella Lapata:::http://www.aclweb.org/anthology-new/D/D12/D12-1050.pdf:::A Comparison of Vector-based Representations for Semantic Composition:::EMNLP:::2012:::0
+4:::0:::Marco Baroni, Raffaella Bernardi, and Roberto Zamparelli:::http://clic.cimec.unitn.it/composes/materials/frege-in-space.pdf:::Frege in Space: A Program for Compositional Distributional Semantics, Chapter 5: Motivating compositional distributional semantics::::::2013:::0
