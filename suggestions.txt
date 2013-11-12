@@ -18,5 +18,9 @@
 1:::0:::Hartung, M. and Frank, A.:::http://www.aclweb.org/anthology/D/D11/D11-1050.pdf:::Exploring Supervised LDA Models for Assigning Attributes to Adjective-Noun Phrases:::EMNLP:::2011:::0
 4:::0:::Max M. Louwerse and Rolf A. Zwaan:::http://madresearchlab.org/Selected_Publications_files/LouwerseZwaan2009.pdf:::Language Encodes Geographical Information:::Cognitive Science:::2009:::0
 1:::0::::::http://www.mitpressjournals.org/toc/coli/39/1:::Computational Linguistics (March 2013): Special Issue on Parsing Morphologically Rich Languages:::Compuatational Lingustics:::2013:::0
-2:::0:::William Blacoe, Elham Kashefi, and Mirella Lapata:::http://aclweb.org/anthology/N/N13/N13-1105.pdf:::A Quantum-Theoretic Approach to Distributional Semantics:::NAACL:::2013:::0
+2:::1:::William Blacoe, Elham Kashefi, and Mirella Lapata:::http://aclweb.org/anthology/N/N13/N13-1105.pdf:::A Quantum-Theoretic Approach to Distributional Semantics:::NAACL:::2013:::0
 2:::0:::Karl Moritz Hermann and Phil Blunsom:::http://www.karlmoritz.com/_media/hermannblunsom_acl2013.pdf:::The role of syntax in vector space models of compositional semantics:::ACL:::2013:::0
+5:::0:::Valentin I. Spitkovsky, Hiyan Alshawi, and Daniel Jurafsky:::http://www.stanford.edu/~vals/pubs/ee.pdf:::Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction:::EMNLP:::2013:::1
+5:::0:::Tom Kwiatkowski, Eunsol Choi, Yoav Artzi, and Luke Zettlemoyer:::http://homes.cs.washington.edu/~lsz/papers/kcaz-emnlp13.pdf:::Scaling Semantic Parsers with On-the-fly Ontology Matching:::EMNLP:::2013:::1
+0:::0:::Kira Radinsky, Eugene Agichtein, Evgeniy Gabrilovich, and Shaul Markovitch:::http://www.technion.ac.il/~kirar/files/Radinsky-TemporalSemantics.pdf:::A Word at a Time: Computing Word Relatedness using Temporal Semantic Analysis:::WWW:::2011:::0
+5:::0:::Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Chris Manning, Andrew Ng, and Chris Potts:::http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf:::Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank:::EMNLP:::2013:::0
