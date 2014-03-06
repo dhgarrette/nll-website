@@ -24,3 +24,5 @@
 0:::0:::Eva Maria Vecchi, Roberto Zamparelli and Marco Baroni:::http://clic.cimec.unitn.it/marco/publications/emnlp2013/vecchi-etal-emnlp2013.pdf:::Studying the recursive behaviour of adjectival modification with compositional distributional semantics:::EMNLP:::2013:::0
 0:::0:::Joo-Kyung Kim and Marie-Catherine de Marneffe:::http://aclweb.org/anthology/D/D13/D13-1169.pdf:::Deriving adjectival scales from continuous space word representations:::EMNLP:::2013:::0
 0:::0:::Adam Vogel, Max Bodoia, Christopher Potts, and Dan Jurafsky:::http://nlp.stanford.edu/pubs/cards-naacl2013.pdf:::Emergence of Gricean Maxims from Multi-Agent Decision Theory:::NAACL:::2013:::0
+0:::0:::Percy Liang, Michael I. Jordan, and Dan Klein:::http://cs.stanford.edu/~pliang/papers/dcs-acl2011.pdf:::Learning Dependency-Based Compositional Semantics:::ACL:::2011:::0
+0:::0:::James Henderson, Paola Merlo, Ivan Titov, and Gabriele Musillo:::http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00158:::Multi-lingual Joint Parsing of Syntactic and Semantic Dependencies with a Latent Variable Model:::Computational Linguistics:::2013:::0
